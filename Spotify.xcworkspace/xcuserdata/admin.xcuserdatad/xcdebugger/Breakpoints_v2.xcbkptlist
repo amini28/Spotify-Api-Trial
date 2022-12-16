@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "304AE69A-51A9-4E75-8A9D-CFEACDE604A0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20A42D52-0168-4B2D-AD2F-B0A8D0AA792C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify/Controllers/Other/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "createTableHeader(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20A42D52-0168-4B2D-AD2F-B0A8D0AA792C - 7f1689e47d77696b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify.ProfileViewController.createTableHeader(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Spotify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Learn-iOS/UIKit/Spotify/Spotify/Controllers/Other/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "20A42D52-0168-4B2D-AD2F-B0A8D0AA792C - 7f1689e47d77696b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify.ProfileViewController.createTableHeader(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Spotify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Learn-iOS/UIKit/Spotify/Spotify/Controllers/Other/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "20A42D52-0168-4B2D-AD2F-B0A8D0AA792C - 7f1689e47d77696b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify.ProfileViewController.createTableHeader(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Spotify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Learn-iOS/UIKit/Spotify/Spotify/Controllers/Other/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "20A42D52-0168-4B2D-AD2F-B0A8D0AA792C - 7f1689e47d77696b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify.ProfileViewController.createTableHeader(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Spotify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Learn-iOS/UIKit/Spotify/Spotify/Controllers/Other/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
